@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Gaji Per Jam",
+  "description": "Aplikasi hitung gaji karyawan per jam dengan tarif tetap Rp15.000, input jam kerja fleksibel, kalkulasi instan, rekap harian/mingguan/bulanan, dan riwayat tersimpan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
